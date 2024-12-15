@@ -1,4 +1,4 @@
-## 개발 스택 
+## 개발 버전 정보
 
 <table border="1">
   <thead>
