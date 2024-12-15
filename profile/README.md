@@ -1,15 +1,13 @@
-## 개발버전 
-
 <table border="1">
   <thead>
     <tr>
       <th>조합</th>
-      <th><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"> </th>
-      <th>Next.js 버전</th>
-      <th>Express 버전</th>
-      <th>MongoDB Driver</th>
-      <th>Mongoose- 사용 고민중</th>
-      <th>AWS SDK</th>
+      <th><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"></th>
+      <th><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js"></th>
+      <th><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white" alt="Express"></th>
+      <th><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"></th>
+      <th><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=MongoDB&logoColor=white" alt="Mongoose"></th>
+      <th><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS SDK"></th>
     </tr>
   </thead>
   <tbody>
