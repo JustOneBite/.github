@@ -2,7 +2,7 @@
   <thead>
     <tr>
       <th>조합</th>
-      <th><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"></th>
+      <th><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js"></th>
       <th><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js"></th>
       <th><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white" alt="Express"></th>
       <th><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"></th>
